@@ -1,0 +1,8 @@
+{
+   imports = [
+     ./fish
+     ./kitty
+     ./starship
+     ];
+
+}

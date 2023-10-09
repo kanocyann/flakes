@@ -1,0 +1,7 @@
+{
+  imports = [
+    ./gtk
+    ./fcitx5
+    ];
+
+}
